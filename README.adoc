@@ -1,0 +1,100 @@
+= Awesome whole cell simulation
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlinks:
+:sectnumlevels: 6
+:sectnums:
+:toc: macro
+:toclevels: 6
+:toc-title:
+
+Because sometimes you just want to simulate single prokaryotic biological living whole cell models starting from DNA to minute detail to understand how it works and predict simple experimental observations.
+
+toc::[]
+
+== The idea
+
+I was thinking maybe something along:
+
+* precalculated interactivity of the molecules (simulated?!) to speed things up
+* then discretize cell spatially. TODO necessary? if yes, maybe a 2D slice type of model, on GPU? Model molecule concentration with time in each slot.
+* Then modify genome,, determine what proteins come out. Protein folding simulations?!
+* precalculate interactions of new proteins, and loop
+
+== Projects with source code
+
+Shut up and give me the fine source.
+
+* http://www.wholecellsimdb.org/
+* https://github.com/BertrandDechoux/OrganicBuilder
+* https://github.com/HaseloffLab/CellModeller/
+* https://github.com/ecell/ecell4
+* https://github.com/virtualcell/vcel
+* https://simtk.org/projects/wholecell http://www.wholecell.org/ TODO GitHub?
+
+== Videos
+
+Shut up and show me a visualisation.
+
+* https://www.youtube.com/watch?v=PSDd3oHj548 DOE CSGF 2016: Towards a Whole-cell Model of Escherichia coli. 2016.
+* https://www.youtube.com/watch?v=haRYF73GV3M Simulations of Biological Processes on the Whole Cell Level. Blue Waters Symposium presentation. Project PI: Zaida Ann Luthey-Schulten, University of Illinois at Urbana-Champaign. 2014.
+* https://www.youtube.com/watch?v=R6EwzkGyRJ0 Simulating whole cell with E-Cell System by Koichi Takahashi. 2013.
+* https://www.youtube.com/watch?v=j84sF_81gCo E.coli in Action: GPU Technology Emables Whole Cell Simulation. 2010.
+
+== Research areas
+
+* https://en.wikipedia.org/wiki/Cellular_model
+* https://en.wikipedia.org/wiki/Modelling_biological_systems
+* http://www.cell.com/abstract/S0092-8674%2812%2900776-3 A Whole-Cell Computational Model Predicts Phenotype from Genotype
+
+== Papers
+
+I guess this is what researchers do instead of blog posts. Go figure!
+
+* The principles of whole-cell modeling. Jonathan R Karr, Koichi Takahashi and Akira Funahashi
+* The Future of Whole-Cell Modeling. Derek N. Macklin, Nicholas A. Ruggero, and Markus W. Covert
+* Paper-Based Synthetic Gene Networks. Keith Pardee, Alexander A. Green, Tom Ferrante D. Ewen Cameron, Ajay DaleyKeyser, Peng Yin, and James J. Collins Wyss
+* Compartmentalization of an all-E. coli Cell-Free Expression System for the Construction of a Minimal Cell. Filippo Caschera, Vincent Noireaux
+* Engine out of the chassis: Cell-free protein synthesis and its uses. Gabriel Rosenblum, Barry S. Cooperman.
+* Paper as a novel material platform for devices. Jason P. Rolland and Devin A. Mourey
+* Rapid and Scalable Preparation of Bacterial Lysates for Cell-Free Gene Expression. Andriy Didovyk, Taishi Tonooka, Lev Tsimring, and Jeff Hasty.
+* A Whole-Cell Computational Model Predicts Phenotype from Genotype. Jonathan R. Karr, Jayodita C. Sanghvi, Derek N. Macklin, Miriam V. Gutschow
+
+== Lectures
+
+* Genomics, Epigenetics & Synthetic Biology. Jim Haseloff.
+** http://data.plantsci.cam.ac.uk/Haseloff/education/synbio_index/index.html
+** http://data.plantsci.cam.ac.uk/Haseloff/resources/Part2SynBio_refs/PlantSyntheticBiology2018_Lect3s.pdf
+
+== Q&A
+
+* https://www.quora.com/How-well-can-whole-cell-simulations-model-the-effects-of-mutated-genes-SNPs
+* https://www.quora.com/What-are-some-simulations-used-for-whole-cell-simulation
+* https://www.quora.com/unanswered/What-can-we-learn-from-whole-cell-simulations
+* https://discuss.biomake.space/t/whole-cell-modelling-simulation-and-verification-experiments/841
+
+== Projects without source code
+
+* Bio cell https://www.youtube.com/watch?v=PSDd3oHj548
+
+== Big projects, institutes and companies
+
+* http://www.sanger.ac.uk/science/groups/single-cell-genomics-core-facility
+** http://www.sanger.ac.uk/science/groups/parts-group
+* https://www.jic.ac.uk/
+* https://en.wikipedia.org/wiki/Horizon_Discovery
+* https://www.openplant.org/
+
+== Experimental
+
+* https://en.wikipedia.org/wiki/Single_cell_sequencing
+* http://phenomena.nationalgeographic.com/2016/04/21/we-built-the-worlds-simplest-cell-but-dunno-how-it-works/
+* https://en.wikipedia.org/wiki/Cell-free_protein_synthesis
+
+== People
+
+* https://en.wikipedia.org/wiki/Craig_Venter
++
+https://motherboard.vice.com/en_us/article/jpgpz8/craig-venter-created-the-simplest-living-organism-possible-in-a-laboratory
+* Jim Swarts Oxford
