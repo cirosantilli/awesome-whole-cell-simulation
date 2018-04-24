@@ -22,6 +22,15 @@ I was thinking maybe something along:
 * Then modify genome,, determine what proteins come out. Protein folding simulations?!
 * precalculate interactions of new proteins, and loop
 
+Difficulties:
+
+* can you get enough data out of a single cell? How long until it doubles? Do the cells interact with one another, and or change the extracelullar medium noticeably? Having single cells would be simpler and more precise.
++
+Another option is to make on huge cell in a cell free environment: https://www.synbio.cam.ac.uk/initiatives/cell-free-synthetic-biology possibly by mashing up many cells. I need some references on that.
++
+** https://en.wikipedia.org/wiki/Cell-free_system
+** https://en.wikipedia.org/wiki/Cell-free_protein_synthesis
+
 == Projects with source code
 
 Shut up and give me the fine source.
@@ -46,7 +55,21 @@ Shut up and show me a visualisation.
 
 * https://en.wikipedia.org/wiki/Cellular_model
 * https://en.wikipedia.org/wiki/Modelling_biological_systems
-* http://www.cell.com/abstract/S0092-8674%2812%2900776-3 A Whole-Cell Computational Model Predicts Phenotype from Genotype
+
+=== Gene editing
+
+Ah, it would be even more awesome if we could hack up the cells and see them do stuff.
+
+Heart only in second half 2010's did it become possible to edit genes, but coding the entire DNA from scratch is still too expensive.
+
+* https://en.wikipedia.org/wiki/Genome_editing
+
+Previously, you would have to:
+
+* shine life with UV to get random modifications
+* inject plasmids by electrict or heat shocks: https://en.wikipedia.org/wiki/Plasmid
+
+and then kill ones that didn't get the gene, which is less reliable.
 
 == Papers
 
@@ -59,13 +82,21 @@ I guess this is what researchers do instead of blog posts. Go figure!
 * Engine out of the chassis: Cell-free protein synthesis and its uses. Gabriel Rosenblum, Barry S. Cooperman.
 * Paper as a novel material platform for devices. Jason P. Rolland and Devin A. Mourey
 * Rapid and Scalable Preparation of Bacterial Lysates for Cell-Free Gene Expression. Andriy Didovyk, Taishi Tonooka, Lev Tsimring, and Jeff Hasty.
-* A Whole-Cell Computational Model Predicts Phenotype from Genotype. Jonathan R. Karr, Jayodita C. Sanghvi, Derek N. Macklin, Miriam V. Gutschow
+* link:++http://www.cell.com/abstract/S0092-8674(12)00776-3++[] https://www.youtube.com/watch?v=AYC5lE0b8os A Whole-Cell Computational Model Predicts Phenotype from Genotype. Jonathan R. Karr, Jayodita C. Sanghvi, Derek N. Macklin, Miriam V. Gutschow, Markus Covert. Notes: Mycoplasma genitalium.
 
 == Lectures
 
 * Genomics, Epigenetics & Synthetic Biology. Jim Haseloff.
 ** http://data.plantsci.cam.ac.uk/Haseloff/education/synbio_index/index.html
 ** http://data.plantsci.cam.ac.uk/Haseloff/resources/Part2SynBio_refs/PlantSyntheticBiology2018_Lect3s.pdf
+
+== What cell to use
+
+Mycoplasma genitalium, Mycoplasma mycoides. Arount 500 genes only, while E-Coli 4000.
+
+https://en.wikipedia.org/wiki/Mycoplasma
+
+And then there is Craig's mimized mycoides strain to 473 genes: http://phenomena.nationalgeographic.com/2016/04/21/we-built-the-worlds-simplest-cell-but-dunno-how-it-works/
 
 == Q&A
 
@@ -89,8 +120,8 @@ I guess this is what researchers do instead of blog posts. Go figure!
 == Experimental
 
 * https://en.wikipedia.org/wiki/Single_cell_sequencing
-* http://phenomena.nationalgeographic.com/2016/04/21/we-built-the-worlds-simplest-cell-but-dunno-how-it-works/
-* https://en.wikipedia.org/wiki/Cell-free_protein_synthesis
+
+Mycoplasma mycoides
 
 == People
 
@@ -98,3 +129,4 @@ I guess this is what researchers do instead of blog posts. Go figure!
 +
 https://motherboard.vice.com/en_us/article/jpgpz8/craig-venter-created-the-simplest-living-organism-possible-in-a-laboratory
 * Jim Swarts Oxford
+* Markus Covert, Stanford. https://www.youtube.com/watch?v=P4OZUFCew0U https://en.wikipedia.org/wiki/Markus_W._Covert
