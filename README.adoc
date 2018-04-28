@@ -35,12 +35,13 @@ Another option is to make on huge cell in a cell free environment: https://www.s
 
 Shut up and give me the fine source.
 
-* http://www.wholecellsimdb.org/
+* http://www.wholecellsimdb.org
 * https://github.com/BertrandDechoux/OrganicBuilder
-* https://github.com/HaseloffLab/CellModeller/
+* https://github.com/HaseloffLab/CellModeller
 * https://github.com/ecell/ecell4
 * https://github.com/virtualcell/vcel
-* https://simtk.org/projects/wholecell http://www.wholecell.org/ TODO GitHub?
+* https://simtk.org/projects/wholecell http://www.wholecell.org/ TODO GitHub? https://github.com/CovertLab/WholeCell Arghh, MATLAB. https://github.com/CovertLab/WholeCellSimDB
+* https://github.com/idekerlab/DCell DCell browser and gene deletion simulator. DCell is an application to provide an easy-to-use user interface and interpretable neural network structure for modeling cell structure and function.
 
 == Videos
 
@@ -55,6 +56,7 @@ Shut up and show me a visualisation.
 
 * https://en.wikipedia.org/wiki/Cellular_model
 * https://en.wikipedia.org/wiki/Modelling_biological_systems
+* https://en.wikipedia.org/wiki/Systems_biology
 
 === Gene editing
 
@@ -71,6 +73,8 @@ Previously, you would have to:
 
 and then kill ones that didn't get the gene, which is less reliable.
 
+https://en.wikipedia.org/wiki/Genome_Project-Write
+
 == Papers
 
 I guess this is what researchers do instead of blog posts. Go figure!
@@ -82,7 +86,7 @@ I guess this is what researchers do instead of blog posts. Go figure!
 * Engine out of the chassis: Cell-free protein synthesis and its uses. Gabriel Rosenblum, Barry S. Cooperman.
 * Paper as a novel material platform for devices. Jason P. Rolland and Devin A. Mourey
 * Rapid and Scalable Preparation of Bacterial Lysates for Cell-Free Gene Expression. Andriy Didovyk, Taishi Tonooka, Lev Tsimring, and Jeff Hasty.
-* link:++http://www.cell.com/abstract/S0092-8674(12)00776-3++[] https://www.youtube.com/watch?v=AYC5lE0b8os A Whole-Cell Computational Model Predicts Phenotype from Genotype. Jonathan R. Karr, Jayodita C. Sanghvi, Derek N. Macklin, Miriam V. Gutschow, Markus Covert. Notes: Mycoplasma genitalium.
+* link:++http://www.cell.com/abstract/S0092-8674(12)00776-3++[] https://www.youtube.com/watch?v=AYC5lE0b8os A Whole-Cell Computational Model Predicts Phenotype from Genotype. Jonathan R. Karr, Jayodita C. Sanghvi, Derek N. Macklin, Miriam V. Gutschow, Markus Covert. Notes: Mycoplasma genitalium. Model apparently at: https://simtk.org/projects/wholecell
 
 == Lectures
 
