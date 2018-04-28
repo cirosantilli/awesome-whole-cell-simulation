@@ -42,6 +42,8 @@ Shut up and give me the fine source.
 * https://github.com/virtualcell/vcel
 * https://simtk.org/projects/wholecell http://www.wholecell.org/ TODO GitHub? https://github.com/CovertLab/WholeCell Arghh, MATLAB. https://github.com/CovertLab/WholeCellSimDB
 * https://github.com/idekerlab/DCell DCell browser and gene deletion simulator. DCell is an application to provide an easy-to-use user interface and interpretable neural network structure for modeling cell structure and function.
+** https://github.com/idekerlab/DCell/issues/33#issuecomment-385191883 online demo does not work
+** https://github.com/idekerlab/DCell/issues/36 local running does not work
 
 == Videos
 
@@ -57,6 +59,8 @@ Shut up and show me a visualisation.
 * https://en.wikipedia.org/wiki/Cellular_model
 * https://en.wikipedia.org/wiki/Modelling_biological_systems
 * https://en.wikipedia.org/wiki/Systems_biology
+* https://en.wikipedia.org/wiki/Artificial_cell#The_minimal_cell
+* https://en.wikipedia.org/wiki/Bioinformatics https://en.wikipedia.org/wiki/Computational_biology https://www.reddit.com/r/bioinformatics/new/
 
 === Gene editing
 
