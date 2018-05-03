@@ -26,10 +26,19 @@ Difficulties:
 
 * can you get enough data out of a single cell? How long until it doubles? Do the cells interact with one another, and or change the extracelullar medium noticeably? Having single cells would be simpler and more precise.
 +
-Another option is to make on huge cell in a cell free environment: https://www.synbio.cam.ac.uk/initiatives/cell-free-synthetic-biology possibly by mashing up many cells. I need some references on that.
-+
-** https://en.wikipedia.org/wiki/Cell-free_system
-** https://en.wikipedia.org/wiki/Cell-free_protein_synthesis
+Another option is to make on huge cell in a <<cell-free>> environment:
+
+=== Cell free
+
+Since cells are themselves to ocomplicated, maybe we can start with simplified DNA systems?
+
+* https://www.synbio.cam.ac.uk/initiatives/cell-free-synthetic-biology possibly by mashing up many cells. I need some references on that.
+* https://en.wikipedia.org/wiki/Cell-free_system
+* https://en.wikipedia.org/wiki/Cell-free_protein_synthesis
+
+Maybe we can make insulin more efficiently by selecting only the parts of the cell we care about!
+
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5553329/ J. Porter Hunt, Seung Ook Yang, Kristen M. Wilding, and Bradley C. Bundy
 
 == Projects with source code
 
@@ -61,6 +70,9 @@ Shut up and show me a visualisation.
 * https://en.wikipedia.org/wiki/Systems_biology
 * https://en.wikipedia.org/wiki/Artificial_cell#The_minimal_cell
 * https://en.wikipedia.org/wiki/Bioinformatics https://en.wikipedia.org/wiki/Computational_biology https://www.reddit.com/r/bioinformatics/new/
+* https://en.wikipedia.org/wiki/Molecular_dynamics This is interesting on the simulate proteins point of view. The ex wall street dude agrees:
+** https://en.wikipedia.org/wiki/D._E._Shaw_Research
+** https://www.deshawresearch.com/
 
 === Gene editing
 
