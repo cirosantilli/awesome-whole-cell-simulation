@@ -28,17 +28,27 @@ Difficulties:
 +
 Another option is to make on huge cell in a <<cell-free>> environment:
 
-=== Cell free
+== Cell free
 
-Since cells are themselves to ocomplicated, maybe we can start with simplified DNA systems?
+Since cells are themselves to complicated, maybe we can start with simplified DNA systems?
 
 * https://www.synbio.cam.ac.uk/initiatives/cell-free-synthetic-biology possibly by mashing up many cells. I need some references on that.
 * https://en.wikipedia.org/wiki/Cell-free_system
 * https://en.wikipedia.org/wiki/Cell-free_protein_synthesis
+* Paper based medium:
+** Paper-Based Synthetic Gene Networks. 2014. Keith Pardee, Alexander A. Green, Tom Ferrante, D. Ewen Cameron, Ajay DaleyKeyser, Peng Yin, and James J. Collins, * Wyss Institute for Biological.
 
 Maybe we can make insulin more efficiently by selecting only the parts of the cell we care about!
 
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5553329/ J. Porter Hunt, Seung Ook Yang, Kristen M. Wilding, and Bradley C. Bundy
+
+Papers:
+
+* Compartmentalization of an all-E. coli Cell-Free Expression System for the Construction of a Minimal Cell. 2016. Filippo Caschera, Vincent Noireaux
+* Engine out of the chassis: Cell-free protein synthesis and its uses. 2013. Gabriel Rosenblum, Barry S. Cooperman.
+* Rapid and Scalable Preparation of Bacterial Lysates for Cell-Free Gene Expression. 2017. Andriy Didovyk, Taishi Tonooka, Lev Tsimring, and Jeff Hasty.
+* Developing cell-free biology for industrial applications. 2006. Jim Swartz.
+* Portable, On-Demand Biomolecular Manufacturing. 2016. Keith Pardee, Shimyn Slomovic, Peter Q. Nguyen, Christopher N. Boddy, Neel S. Joshi, James J. Collins.
 
 == Projects with source code
 
@@ -58,7 +68,7 @@ Shut up and give me the fine source.
 
 Shut up and show me a visualisation.
 
-* https://www.youtube.com/watch?v=PSDd3oHj548 DOE CSGF 2016: Towards a Whole-cell Model of Escherichia coli. 2016.
+* https://www.youtube.com/watch?v=PSDd3oHj548 DOE CSGF 2016: Towards a Whole-cell Model of Escherichia coli. 2016. Derek Macklin. Covert lab.
 * https://www.youtube.com/watch?v=haRYF73GV3M Simulations of Biological Processes on the Whole Cell Level. Blue Waters Symposium presentation. Project PI: Zaida Ann Luthey-Schulten, University of Illinois at Urbana-Champaign. 2014.
 * https://www.youtube.com/watch?v=R6EwzkGyRJ0 Simulating whole cell with E-Cell System by Koichi Takahashi. 2013.
 * https://www.youtube.com/watch?v=j84sF_81gCo E.coli in Action: GPU Technology Emables Whole Cell Simulation. 2010.
@@ -68,11 +78,18 @@ Shut up and show me a visualisation.
 * https://en.wikipedia.org/wiki/Cellular_model
 * https://en.wikipedia.org/wiki/Modelling_biological_systems
 * https://en.wikipedia.org/wiki/Systems_biology
-* https://en.wikipedia.org/wiki/Artificial_cell#The_minimal_cell
 * https://en.wikipedia.org/wiki/Bioinformatics https://en.wikipedia.org/wiki/Computational_biology https://www.reddit.com/r/bioinformatics/new/
 * https://en.wikipedia.org/wiki/Molecular_dynamics This is interesting on the simulate proteins point of view. The ex wall street dude agrees:
 ** https://en.wikipedia.org/wiki/D._E._Shaw_Research
 ** https://www.deshawresearch.com/
+** Dude has custom silicon for it, amazing:
+*** https://www.nextplatform.com/2016/02/04/anton-sequel-makes-stronger-case-for-custom-supercomputing/
+*** https://en.wikipedia.org/wiki/Anton_(computer)
+
+=== Cell minimization
+
+* https://en.wikipedia.org/wiki/Artificial_cell#The_minimal_cell
+* https://en.wikipedia.org/wiki/Mycoplasma_laboratorium#Minimal_genome_project
 
 === Gene editing
 
@@ -98,10 +115,7 @@ I guess this is what researchers do instead of blog posts. Go figure!
 * The principles of whole-cell modeling. Jonathan R Karr, Koichi Takahashi and Akira Funahashi
 * The Future of Whole-Cell Modeling. Derek N. Macklin, Nicholas A. Ruggero, and Markus W. Covert
 * Paper-Based Synthetic Gene Networks. Keith Pardee, Alexander A. Green, Tom Ferrante D. Ewen Cameron, Ajay DaleyKeyser, Peng Yin, and James J. Collins Wyss
-* Compartmentalization of an all-E. coli Cell-Free Expression System for the Construction of a Minimal Cell. Filippo Caschera, Vincent Noireaux
-* Engine out of the chassis: Cell-free protein synthesis and its uses. Gabriel Rosenblum, Barry S. Cooperman.
 * Paper as a novel material platform for devices. Jason P. Rolland and Devin A. Mourey
-* Rapid and Scalable Preparation of Bacterial Lysates for Cell-Free Gene Expression. Andriy Didovyk, Taishi Tonooka, Lev Tsimring, and Jeff Hasty.
 * link:++http://www.cell.com/abstract/S0092-8674(12)00776-3++[] https://www.youtube.com/watch?v=AYC5lE0b8os A Whole-Cell Computational Model Predicts Phenotype from Genotype. Jonathan R. Karr, Jayodita C. Sanghvi, Derek N. Macklin, Miriam V. Gutschow, Markus Covert. Notes: Mycoplasma genitalium. Model apparently at: https://simtk.org/projects/wholecell
 
 == Lectures
@@ -112,11 +126,36 @@ I guess this is what researchers do instead of blog posts. Go figure!
 
 == What cell to use
 
-Mycoplasma genitalium, Mycoplasma mycoides. Arount 500 genes only, while E-Coli 4000.
+=== Mycoplasma
 
-https://en.wikipedia.org/wiki/Mycoplasma
+https://en.wikipedia.org/wiki/Mycoplasma , e.g.  Mycoplasma mycoides.
 
-And then there is Craig's mimized mycoides strain to 473 genes: http://phenomena.nationalgeographic.com/2016/04/21/we-built-the-worlds-simplest-cell-but-dunno-how-it-works/
+==== Mycoplasma genitalium
+
+https://en.wikipedia.org/wiki/Mycoplasma_genitalium
+
+https://www.lgcstandards-atcc.org/products/all/49896.aspx
+
+* £355.00
+* level 2 <<biosafety-level>>
+
+Number of genes:  475.
+
+And then there is Craig's minimized mycoides strain to 473 genes: http://phenomena.nationalgeographic.com/2016/04/21/we-built-the-worlds-simplest-cell-but-dunno-how-it-works/
+
+Downsides mentioned at https://youtu.be/PSDd3oHj548?t=293:
+
+* too small to see on light microscope
+* difficult to genetically manipulate. TODO why?
+* less literature than E. Coli.
+
+https://www.lgcstandards-atcc.org/Search_Results.aspx?dsNav=Ntk:PrimarySearch%7cmycoplasma%7c3%7c,Ny:True,N:1000552-1000577-4294967226&searchTerms=mycoplasma&redir=1
+
+==== Other mycoplasma
+
+Biosafety level 1: https://www.lgcstandards-atcc.org/Search_Results.aspx?dsNav=Ntk:PrimarySearch%7cmycoplasma%7c3%7c,Ny:True,N:1000552-1000577-4294967226&searchTerms=mycoplasma&redir=1
+
+=== E. Coli
 
 == Q&A
 
@@ -150,3 +189,13 @@ Mycoplasma mycoides
 https://motherboard.vice.com/en_us/article/jpgpz8/craig-venter-created-the-simplest-living-organism-possible-in-a-laboratory
 * Jim Swarts Oxford
 * Markus Covert, Stanford. https://www.youtube.com/watch?v=P4OZUFCew0U https://en.wikipedia.org/wiki/Markus_W._Covert
+
+== Vendors
+
+* https://en.wikipedia.org/wiki/ATCC_(company)
+
+== Bibliography
+
+=== Biosafety level
+
+https://en.wikipedia.org/wiki/Biosafety_level
