@@ -226,6 +226,12 @@ https://motherboard.vice.com/en_us/article/jpgpz8/craig-venter-created-the-simpl
 * https://en.wikipedia.org/wiki/FASTA_format
 * http://sbml.org/Main_Page A file format for models?!
 
+== Low entry barrier
+
+DIY off topic you don't need to be a PhD type of resources for people like me
+
+* https://en.wikipedia.org/wiki/Do-it-yourself_biology
+
 == Bibliography
 
 === Biosafety level
