@@ -202,6 +202,9 @@ Visibility:
 * Protein measurement
 ** https://www.sciencedirect.com/science/article/pii/S2211124715013637 Quantification of Protein Levels in Single Living Cells Chiu-AnLo13IbrahimKays13FaridaEmran1Tsung-JungLin1VedranaCvetkovska1Brian EdwinChen1
 ** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844680/
+* mother machine: allows to observe and hold indivual bacteria
+** https://jun.ucsd.edu/mother_machine.php
+** https://www.youtube.com/watch?v=yrJzMW5jcbM
 
 == People
 
