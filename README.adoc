@@ -139,11 +139,14 @@ https://www.lgcstandards-atcc.org/products/all/49896.aspx
 * £355.00
 * level 2 <<biosafety-level>>
 
-Number of genes: 475.
-
 Size: 300 x 600 nm
 
 Reproduction time: https://www.quora.com/unanswered/How-long-do-Mycoplasma-bacteria-take-to-reproduce-under-optimal-conditions
+
+Genome:
+
+* 475 genes
+* 580 kbp
 
 And then there is Craig's minimized mycoides strain to 473 genes: http://phenomena.nationalgeographic.com/2016/04/21/we-built-the-worlds-simplest-cell-but-dunno-how-it-works/
 
@@ -169,11 +172,23 @@ Biosafety level 1: https://www.lgcstandards-atcc.org/Search_Results.aspx?dsNav=N
 * https://www.cell.com/cell/fulltext/S0092-8674(15)00568-1 2015. Using Genome-scale Models to Predict Biological Capabilities. Edward J. O’Brien, Jonathan M. Monk, Bernhard O. Palsson.
 * https://www.quora.com/What-are-some-good-books-on-Escherichia-Coli-E-Coli
 
+Size: 1–2 micrometers long and about 0.25 micrometer in diameter, so: `2 * 0.5 * 0.5 * 10e-18` and thus 0.5 micrometer square.
+
+Duplication time: 20 minutes, with a crazy multiple start sites mechanism:
+
+* https://biology.stackexchange.com/questions/30080/how-can-e-coli-proliferate-so-rapidly
+* http://stochasticscientist.blogspot.co.uk/2012/02/how-e-coli-grows-so-fast.html
+
+Genome:
+
+* 4k genes
+* 5mbp
+
 === C. Elegans
 
 OK, not seriously considering multicellular beings, but maybe we can learn some experimental techniques:
 
-* https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30120-X 
+* https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30120-X
 * https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30151-X A Genome-Scale Database and Reconstruction of Caenorhabditis elegans Metabolism Gebauer, Juliane et al. Cell Systems , Volume 2 , Issue 5 , 312 - 322
 
 == Q&A
