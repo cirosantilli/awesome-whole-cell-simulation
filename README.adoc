@@ -228,6 +228,7 @@ Visibility:
 ** https://www.youtube.com/watch?v=yrJzMW5jcbM
 * Measure everything with mass spectroscopy:
 ** https://www.youtube.com/watch?v=D4JtnM-4Lds Single Cell Proteomics by Mass-spec | CSHL Meeting: Single Cell Analyses 2017 - Nikolai Slavov
+* REAP-seq and CITE-seq: https://www.nature.com/articles/d41586-018-05214-w
 
 == Cell behaviour
 
