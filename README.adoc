@@ -198,6 +198,8 @@ OK, not seriously considering multicellular beings, but maybe we can learn some 
 * https://www.quora.com/unanswered/What-can-we-learn-from-whole-cell-simulations
 * https://discuss.biomake.space/t/whole-cell-modelling-simulation-and-verification-experiments/841
 * https://www.quora.com/unanswered/How-far-are-we-from-fully-understanding-and-mathematically-modeling-the-metabolism-of-a-bacteria-like-E-coli-or-mycoplasma
+* https://www.quora.com/unanswered/Why-would-you-study-eukaryotes-in-system-biology-instead-of-prokaryotes-which-are-much-simpler
+* https://www.quora.com/unanswered/Why-would-you-study-eukaryotes-in-system-biology-instead-of-prokaryotes-which-are-much-simpler
 
 == Projects without source code
 
@@ -210,6 +212,7 @@ OK, not seriously considering multicellular beings, but maybe we can learn some 
 * https://www.jic.ac.uk/
 * https://en.wikipedia.org/wiki/Horizon_Discovery
 * https://www.openplant.org/
+* https://www.broadinstitute.org/about-us "Assemble a complete picture of the molecular components of life". Found through their awesome YouTube channel: https://www.youtube.com/channel/UCv4IbnP9j9RC_aZAs8wqdeQ Which does not allows comments lol.
 
 == Experimental
 
@@ -223,12 +226,22 @@ Visibility:
 * Protein measurement
 ** https://www.sciencedirect.com/science/article/pii/S2211124715013637 Quantification of Protein Levels in Single Living Cells Chiu-AnLo13IbrahimKays13FaridaEmran1Tsung-JungLin1VedranaCvetkovska1Brian EdwinChen1
 ** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844680/
+* REAP-seq and CITE-seq: https://www.nature.com/articles/d41586-018-05214-w
+
+Manipuate indivitual cells:
+
 * mother machine: allows to observe and hold indivual bacteria
 ** https://jun.ucsd.edu/mother_machine.php
 ** https://www.youtube.com/watch?v=yrJzMW5jcbM
-* Measure everything with mass spectroscopy:
-** https://www.youtube.com/watch?v=D4JtnM-4Lds Single Cell Proteomics by Mass-spec | CSHL Meeting: Single Cell Analyses 2017 - Nikolai Slavov
-* REAP-seq and CITE-seq: https://www.nature.com/articles/d41586-018-05214-w
+* https://www.youtube.com/watch?v=adCjRYpDSxM Abnova - Micro-Manipulator - Single Cell Collection - Microscope and pipette
+
+=== Mass spectroscopy
+
+Potentially measure the quantities of every substance in the cell?
+
+* https://www.quora.com/unanswered/Why-would-you-study-eukaryotes-in-system-biology-instead-of-prokaryotes-which-are-much-simpler
+* https://www.youtube.com/watch?v=D4JtnM-4Lds Single Cell Proteomics by Mass-spec | CSHL Meeting: Single Cell Analyses 2017 - Nikolai Slavov
+* https://www.youtube.com/watch?v=PFOodSbH9IY
 
 == Cell behaviour
 
@@ -252,6 +265,13 @@ Questions:
 https://motherboard.vice.com/en_us/article/jpgpz8/craig-venter-created-the-simplest-living-organism-possible-in-a-laboratory
 * Jim Swarts Oxford
 * Markus Covert, Stanford. https://www.youtube.com/watch?v=P4OZUFCew0U https://en.wikipedia.org/wiki/Markus_W._Covert
+
+Cambridge UK:
+
+* https://www.sysbiol.cam.ac.uk/Investigators/steve-oliver yeast
+* https://ralser-sysbiol.crick.ac.uk/ yeast, mass spectrometry
+** https://www.bioc.cam.ac.uk/research/uto/ralser
+* https://www.slcu.cam.ac.uk/directory/locke-james
 
 == Vendors
 
