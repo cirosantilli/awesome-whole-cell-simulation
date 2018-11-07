@@ -364,6 +364,19 @@ DIY off topic you don't need to be a PhD type of resources for people like me
 +
 In particular, he created a neat little diagram that summarizes the computational efforst vs precision tradeoff of certain classes of algorithms: https://en.wikipedia.org/wiki/File:Pople_diagram_reverse_final.pdf
 
+== Other random bioinformatics topics that should not be in this repo until I rename it
+
+* http://rosalind.info/problems/topics/ bioinformatics HackerRank with a few dozen problems
+
+Awesome lists:
+
+* https://github.com/danielecook/Awesome-Bioinformatics
+
+How to do `s**t` in bioinformatics repos:
+
+* link:https://github.com/stephenturner/oneliners[]: too much POSIX that I already know :-)
+* https://github.com/rasbt/protein-science
+
 == Bibliography
 
 === Biosafety level
