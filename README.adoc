@@ -418,6 +418,14 @@ How to do `s**t` in bioinformatics repos:
 * link:https://github.com/stephenturner/oneliners[]: too much POSIX that I already know :-)
 * https://github.com/rasbt/protein-science
 
+=== Just some awesome visualizations
+
+* https://micro.magnet.fsu.edu/ a piece of early 2000's beauty
+
+=== Awesome history of biology
+
+* https://www.youtube.com/user/webofstories insanely awesome interview with famous people, bio, scientists and more
+
 == Bibliography
 
 * http://book.bionumbers.org/ Google keeps sending me there.
