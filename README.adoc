@@ -426,6 +426,17 @@ How to do `s**t` in bioinformatics repos:
 
 * https://www.youtube.com/user/webofstories insanely awesome interview with famous people, bio, scientists and more
 
+== DNA synthesis
+
+* https://en.wikipedia.org/wiki/BioBrick
+* https://www.evonetix.com/
+
+=== Cell synthesis
+
+Models need experimental data, experimental data needs models:
+
+* https://www.sciencemag.org/news/2018/11/biologists-create-most-lifelike-artificial-cells-yet
+
 == Bibliography
 
 * http://book.bionumbers.org/ Google keeps sending me there.
