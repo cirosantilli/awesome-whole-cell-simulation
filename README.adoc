@@ -123,6 +123,8 @@ I guess this is what researchers do instead of blog posts. Go figure!
 * Genomics, Epigenetics & Synthetic Biology. Jim Haseloff.
 ** http://data.plantsci.cam.ac.uk/Haseloff/education/synbio_index/index.html
 ** http://data.plantsci.cam.ac.uk/Haseloff/resources/Part2SynBio_refs/PlantSyntheticBiology2018_Lect3s.pdf
+* Spatially Distributed Stochastic Dynamical Systems in Biology https://www.newton.ac.uk/event/sdbw04 2016 Michael J. Hallock (University of Illinois at Urbana-Champaign), Joseph R. Peterson (University of Illinois at Urbana-Champaign), John A. Cole (University of Illinois at Urbana-Champaign), Tyler M. Earnest (University of Illinois at Urbana-Champaign), John E. Stone (University of Illinois at Urbana-Champaign) 
+
 
 == What cell to use
 
