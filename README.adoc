@@ -191,6 +191,8 @@ Genome:
 
 Synthesis project: http://www.sciencemag.org/news/2016/08/biologists-are-close-reinventing-genetic-code-life
 
+Omics modeling: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5611438/ Tools for Genomic and Transcriptomic Analysis of Microbes at Single-Cell Level Zixi Chen, Lei Chen, Weiwen Zhang.
+
 === Yeast
 
 https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae
@@ -204,6 +206,8 @@ Genome:
 * databases: https://en.wikipedia.org/wiki/Saccharomyces_Genome_Database |  https://www.yeastgenome.org/ Includes:
 ** known pathways: https://pathway.yeastgenome.org/overviewsWeb/celOv.shtml
 * https://www.ncbi.nlm.nih.gov/genome?term=saccharomyces%20cerevisiae
+
+Proteins per cell: 42m: https://www.cell.com/pb-assets/journals/research/cell-systems/cels_384.pdf
 
 Division time: 100 minutes.
 
@@ -274,7 +278,9 @@ Visibility:
 ** SEM: nm resolution
 * Protein measurement
 ** https://www.sciencedirect.com/science/article/pii/S2211124715013637 Quantification of Protein Levels in Single Living Cells Chiu-AnLo13IbrahimKays13FaridaEmran1Tsung-JungLin1VedranaCvetkovska1Brian EdwinChen1
-** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844680/
+** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844680/ Real-time quantification of protein expression at the single-cell level via dynamic protein synthesis translocation reporters - 2016 - Delphine Aymoz
+** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910158/ What is the total number of protein molecules per cell volume? A call to rethink some published values - 2013 - Ron Milo
+** https://www.youtube.com/watch?v=lJ2T8r1xB1A Progress, challenges and standards for single cell proteomics | Nikolai Slavov | SCP2018. There's a converence just for that! https://www.northeastern.edu/scp2018/
 * REAP-seq and CITE-seq: https://www.nature.com/articles/d41586-018-05214-w
 
 Manipulate individual cells:
@@ -283,10 +289,6 @@ Manipulate individual cells:
 ** https://jun.ucsd.edu/mother_machine.php
 ** https://www.youtube.com/watch?v=yrJzMW5jcbM
 * https://www.youtube.com/watch?v=adCjRYpDSxM Abnova - Micro-Manipulator - Single Cell Collection - Microscope and pipette
-
-Synthesis:
-
-* https://www.evonetix.com/technology/ with silicon arrays
 
 DNA sequencing:
 
@@ -487,7 +489,10 @@ How to do `s**t` in bioinformatics repos:
 == DNA synthesis
 
 * https://en.wikipedia.org/wiki/BioBrick
-* https://www.evonetix.com/
+* https://www.evonetix.com/technology/ Cambridge, UK, silicon arrays
+* http://dnascript.co/ Paris, enzymatic
+* https://www.ansabio.com/ USA East coast
+* https://www.nuclera.com/ Cambride, UK, enzymatic
 
 === Cell synthesis
 
