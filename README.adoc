@@ -59,7 +59,6 @@ Shut up and give me the fine source.
 * https://github.com/HaseloffLab/CellModeller
 * https://github.com/ecell/ecell4
 * https://github.com/virtualcell/vcel
-* https://simtk.org/projects/wholecell http://www.wholecell.org/ TODO GitHub? https://github.com/CovertLab/WholeCell Arghh, MATLAB. https://github.com/CovertLab/WholeCellSimDB
 * https://github.com/idekerlab/DCell DCell browser and gene deletion simulator. DCell is an application to provide an easy-to-use user interface and interpretable neural network structure for modeling cell structure and function.
 ** https://github.com/idekerlab/DCell/issues/33#issuecomment-385191883 online demo does not work
 ** https://github.com/idekerlab/DCell/issues/36 local running does not work
@@ -164,6 +163,11 @@ Data:
 
 * https://www.ncbi.nlm.nih.gov/bioproject/97 contains genome, genes, proteins.
 * http://www.genome.jp/kegg-bin/show_pathway?mge01100 all known pathways. TODO: numerical reaction coefficients? Which enzyimes mediate what? Appears to factor pathways across organisms, which is awesome.
+
+Whole cell modelling:
+
+* https://simtk.org/projects/wholecell http://www.wholecell.org/ TODO GitHub? https://github.com/CovertLab/WholeCell Arghh, MATLAB. https://github.com/CovertLab/WholeCellSimDB
+** http://www.wholecellviz.org/viz.php awesome visualization of simtk, paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413483/ A Whole-Cell Computational Model Predicts Phenotype from Genotype - 2013 - Jonathan R. Karr.
 
 ==== Other mycoplasma
 
