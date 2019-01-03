@@ -19,7 +19,7 @@ I was thinking maybe something along:
 
 * precalculated interactivity of the molecules (simulated?!) to speed things up
 * then discretize cell spatially. TODO necessary? if yes, maybe a 2D slice type of model, on GPU? Model molecule concentration with time in each slot.
-* Then modify genome,, determine what proteins come out. Protein folding simulations?!
+* Then modify genome, determine what proteins come out. Protein folding simulations?!
 * precalculate interactions of new proteins, and loop
 
 Difficulties:
@@ -281,7 +281,6 @@ Visibility:
 ** https://www.researchgate.net/post/Can_living_cells_be_studied_with_electron_microscopy
 ** SEM: nm resolution
 * Protein measurement
-** https://www.sciencedirect.com/science/article/pii/S2211124715013637 Quantification of Protein Levels in Single Living Cells Chiu-AnLo13IbrahimKays13FaridaEmran1Tsung-JungLin1VedranaCvetkovska1Brian EdwinChen1
 ** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844680/ Real-time quantification of protein expression at the single-cell level via dynamic protein synthesis translocation reporters - 2016 - Delphine Aymoz
 ** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910158/ What is the total number of protein molecules per cell volume? A call to rethink some published values - 2013 - Ron Milo
 ** https://www.youtube.com/watch?v=lJ2T8r1xB1A Progress, challenges and standards for single cell proteomics | Nikolai Slavov | SCP2018. There's a converence just for that! https://www.northeastern.edu/scp2018/
@@ -297,6 +296,17 @@ Manipulate individual cells:
 DNA sequencing:
 
 * https://nanoporetech.com/how-it-works
+
+=== Single cell stuff
+
+Protein measurement:
+
+* https://www.sciencedirect.com/science/article/pii/S2211124715013637 Quantification of Protein Levels in Single Living Cells Chiu-AnLo13IbrahimKays13FaridaEmran1Tsung-JungLin1VedranaCvetkovska1Brian EdwinChen1
+
+Companies:
+
+* https://www.berkeleylights.com/ | https://www.crunchbase.com/organization/berkeley-lights Founded 2011, 225 USD investment by 2018, single cell manipulation
+** https://www.youtube.com/watch?v=6gTGJhja0oI Speeding Cell Development with Berkeley Lights - 2017
 
 === Mass spectroscopy
 
@@ -348,6 +358,13 @@ London:
 * https://crick.ac.uk
 
 == Courses and conferences
+
+* 2019 05 14-15 - 5th Annual Single Cell Analysis USA Congress - Boston, USA
+* 2019 01 13-17 - Keystone Symposia - Single Cell Biology, Colorado, USA - http://www.keystonesymposia.org/19L1 | http://web.archive.org/web/20181229084812/http://www.keystonesymposia.org/19L1
+* 2018 09 20-21 - Single Cell Europe Conference, BIOCEV, Prague, Czech Republic - https://singlecell2018.eu/ | http://web.archive.org/web/20181229085120/https://singlecell2018.eu/
+* 2018 10 29-31 - Single Cell Genomics 2018 - Broad Institute of MIT and Harvard - http://www.weizmann.ac.il/conferences/SCG2018/program
+* 2018 - Single Cell Biology - Welcome Genome Campus, Cambridge, UK - https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2018/
+* 2018 - Single cell ecology - The Royal Society - https://royalsociety.org/science-events-and-lectures/2018/12/single-cell/ | http://web.archive.org/web/20181229090134/https://royalsociety.org/science-events-and-lectures/2018/12/single-cell/
 
 == Vendors
 
@@ -490,19 +507,36 @@ How to do `s**t` in bioinformatics repos:
 
 * https://www.youtube.com/user/webofstories insanely awesome interview with famous people, bio, scientists and more
 
-== DNA synthesis
+== Techniques
+
+=== DNA synthesis
+
+Companies:
+
+* https://en.wikipedia.org/wiki/Twist_Bioscience San Francisco, founded 2013, raised 190M USD by 2018, silicon arrays.
+* https://www.evonetix.com/technology/ Cambridge, founded 2015, UK, raised 14M USD by 2018, silicon arrays
+* http://dnascript.co/ Paris, enzymatic, raised 24M USD by 2018.
+* https://www.nuclera.com/ Cambride, UK, enzymatic, raised 1M USD by 2018
+* https://www.ansabio.com/ USA East coast
+* http://molecularassemblies.com/ https://www.crunchbase.com/organization/molecular-assemblies 7M raised by 2018, founded 2013, Sann Diego, USA.
+
+Tools:
 
 * https://en.wikipedia.org/wiki/BioBrick
-* https://www.evonetix.com/technology/ Cambridge, UK, silicon arrays
-* http://dnascript.co/ Paris, enzymatic
-* https://www.ansabio.com/ USA East coast
-* https://www.nuclera.com/ Cambride, UK, enzymatic
 
 === Cell synthesis
 
 Models need experimental data, experimental data needs models:
 
 * https://www.sciencemag.org/news/2018/11/biologists-create-most-lifelike-artificial-cells-yet
+
+=== DNA sequencing
+
+DNA microarray:
+
+* https://en.wikipedia.org/wiki/DNA_microarray
+* https://bitesizebio.com/7463/how-dna-microarrays-are-built/
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011503/ - DNA microarrays: Types, Applications and their future - 2013 - Roger Bumgarner
 
 == Action
 
