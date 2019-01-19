@@ -307,6 +307,7 @@ Companies:
 
 * https://www.berkeleylights.com/ | https://www.crunchbase.com/organization/berkeley-lights Founded 2011, 225 USD investment by 2018, single cell manipulation
 ** https://www.youtube.com/watch?v=6gTGJhja0oI Speeding Cell Development with Berkeley Lights - 2017
+* https://www.spherefluidics.com/company/about-us/ | https://www.youtube.com/watch?v=N9XpZHvnzys
 
 === Mass spectroscopy
 
