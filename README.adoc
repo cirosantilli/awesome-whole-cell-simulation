@@ -308,6 +308,7 @@ Companies:
 * https://www.berkeleylights.com/ | https://www.crunchbase.com/organization/berkeley-lights Founded 2011, 225 USD investment by 2018, single cell manipulation
 ** https://www.youtube.com/watch?v=6gTGJhja0oI Speeding Cell Development with Berkeley Lights - 2017
 * https://www.spherefluidics.com/company/about-us/ | https://www.youtube.com/watch?v=N9XpZHvnzys
+* https://www.labcyte.com/
 
 === Mass spectroscopy
 
@@ -530,6 +531,7 @@ Tools:
 Models need experimental data, experimental data needs models:
 
 * https://www.sciencemag.org/news/2018/11/biologists-create-most-lifelike-artificial-cells-yet
+* https://en.wikipedia.org/wiki/Genome_Project-Write
 
 === DNA sequencing
 
