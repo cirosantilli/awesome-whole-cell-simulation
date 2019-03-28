@@ -50,6 +50,13 @@ Papers:
 * Developing cell-free biology for industrial applications. 2006. Jim Swartz.
 * Portable, On-Demand Biomolecular Manufacturing. 2016. Keith Pardee, Shimyn Slomovic, Peter Q. Nguyen, Christopher N. Boddy, Neel S. Joshi, James J. Collins.
 
+=== Minimal biology
+
+I like this.
+
+* https://www.youtube.com/watch?v=Fs4X7qbpc18
+* http://www.bristol.ac.uk/news/2019/march/minimal-biology.html
+
 == Projects with source code
 
 Shut up and give me the fine source.
@@ -240,6 +247,14 @@ wget ftp://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/annotation/GRCh38_latest/refseq
 gunzip --keep GRCh38_latest_genomic.fna.gz
 ....
 
+== Multicellular species
+
+The simplest know seems to be: https://en.wikipedia.org/wiki/Trichoplax
+
+See also: https://www.youtube.com/watch?time_continue=1024&v=1v6cgSkiHik Nicole King (UC Berkeley, HHMI) 1: The origin of animal multicellularity, iBiology, Published on Apr 7, 2015
+
+Then of course: <<c-elegans>>.
+
 == Q&A
 
 * https://www.quora.com/How-well-can-whole-cell-simulations-model-the-effects-of-mutated-genes-SNPs
@@ -307,8 +322,15 @@ Companies:
 
 * https://www.berkeleylights.com/ | https://www.crunchbase.com/organization/berkeley-lights Founded 2011, 225 USD investment by 2018, single cell manipulation
 ** https://www.youtube.com/watch?v=6gTGJhja0oI Speeding Cell Development with Berkeley Lights - 2017
-* https://www.spherefluidics.com/company/about-us/ | https://www.youtube.com/watch?v=N9XpZHvnzys
+* https://www.spherefluidics.com/company/about-us/ | https://www.youtube.com/watch?v=N9XpZHvnzys | Cambridge, UK | Founded: 2010.
 * https://www.labcyte.com/
+* https://www.10xgenomics.com/
+** This is what many people are using for single cell RNAseq
+** HQ: Pleasanton, CA
+** Founded: 2012
+** https://www.crunchbase.com/organization/10x-genomics#section-overview
+** Investment: 250M in 2019-01
+** Technique: https://www.10xgenomics.com/solutions/single-cell-cnv/ Separate cells into droplets. Add unique genetic barcode to each droplet.
 
 === Mass spectroscopy
 
