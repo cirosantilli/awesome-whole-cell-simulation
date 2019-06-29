@@ -54,8 +54,10 @@ Papers:
 
 I like this.
 
-* https://www.youtube.com/watch?v=Fs4X7qbpc18
-* http://www.bristol.ac.uk/news/2019/march/minimal-biology.html
+* http://www.bristol.ac.uk/news/2019/march/minimal-biology.html New Max Planck-Bristol Centre for Minimal Biology launched - 27 March 2019
+** https://www.youtube.com/watch?v=Fs4X7qbpc18
+* https://www.ethz.ch/en/news-and-events/eth-news/news/2019/03/bacterial-genome-created-with-computer.html First bacterial genome created entirely with a computer - 2019-04-01.
+** https://en.wikipedia.org/wiki/Caulobacter_crescentus 4,000 genes in nature, minimized to 680. One year with manufacturing costs of 120,000 Swiss francs.”
 
 == Projects with source code
 
@@ -113,6 +115,10 @@ Previously, you would have to:
 and then kill ones that didn't get the gene, which is less reliable.
 
 https://en.wikipedia.org/wiki/Genome_Project-Write
+
+==== Exciting gene edited systems
+
+* 2019-06 https://www.ethz.ch/en/news-and-events/eth-news/news/2019/06/making-systems-robust.html "ETH researchers add integral feedback control mechanisms in bacteria that maintains constant GFP levels"
 
 == Papers
 
@@ -509,6 +515,12 @@ DIY off topic you don't need to be a PhD type of resources for people like me
 *** https://en.wikipedia.org/wiki/John_Pople
 +
 In particular, he created a neat little diagram that summarizes the computational efforst vs precision tradeoff of certain classes of algorithms: https://en.wikipedia.org/wiki/File:Pople_diagram_reverse_final.pdf
+
+=== Molecule design
+
+Games:
+
+* https://eternagame.org/home/ Eterna RNA design
 
 == Other random bioinformatics topics that should not be in this repo until I rename it
 
