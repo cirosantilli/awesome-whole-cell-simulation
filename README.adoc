@@ -560,6 +560,8 @@ Tools:
 
 * https://en.wikipedia.org/wiki/BioBrick
 
+Summary of all enzymatic companies in 2019 at Synbiobeta 2019: https://twitter.com/jiahao28/status/1179532081958809602 (http://archive.is/XAUt2[archive])
+
 === Cell synthesis
 
 Models need experimental data, experimental data needs models:
