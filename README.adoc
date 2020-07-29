@@ -9,6 +9,8 @@
 :toclevels: 6
 :toc-title:
 
+MOVING TO: https://github.com/cirosantilli/cirosantilli.github.io/ as part of Ciro's plan to unify his educational repos as much as possible so that they will survive the apocalypse when GitHub makes a backup only of every proejct with more than 1000 stars.
+
 Because sometimes you just want to simulate single prokaryotic biological living whole cell models starting from DNA to minute detail to understand how it works and predict simple experimental observations.
 
 toc::[]
